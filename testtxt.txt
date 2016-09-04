@@ -1,3 +1,9 @@
 Este es el primer cambio
 
-This is a second change
+<<<<<<< HEAD
+This is a Fourth change
+
+this is a Third change
+=======
+this is another change in the page
+>>>>>>> master
